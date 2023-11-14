@@ -6,14 +6,14 @@ void motor_move_right(void)
 }
 void motor_move_left(void)
 {
-	printf("Motor move right");
+	printf("Motor move left");
 }
 void motor_move_forward(void)
 {
-	
+	printf("Motor move forward");
 }
 
 void motor_move_backward(void)
 {
-	
+	printf("Motor move backward");
 }
