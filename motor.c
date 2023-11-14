@@ -17,3 +17,8 @@ void motor_move_backward(void)
 {
 	printf("Motor move backward");
 }
+void motor_move_backward_2(void)
+{
+	printf("Motor move backward");
+	printf("Motor move backward");
+}
